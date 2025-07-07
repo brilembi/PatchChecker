@@ -15,7 +15,7 @@ pip3 install -r requirements.txt
 
 Usage:
 1. Clone the repository with:
-   git clone https://github.com/YOUR_USERNAME/linux-patch-checker.git
+   git clone https://github.com/brilembi/linux-patch-checker.git
    cd linux-patch-checker
 
 2. Run the script: 
